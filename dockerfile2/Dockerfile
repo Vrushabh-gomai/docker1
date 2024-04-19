@@ -2,7 +2,7 @@
 FROM httpd:latest
 
 # Label for identifying the maintainer of this Dockerfile
-LABEL maintainer="vrushabh gomai <your.email@example.com>"
+LABEL maintainer="vrushabh gomai <vrushabhgoma>"
 
 # (Optional) Set environment variables, if needed
 ENV APACHE_LOG_DIR /var/log/apache2
